@@ -1,0 +1,1 @@
+在AS的Project Structure 中的SDK Location 中配置ndk的位置，用ndk开发
